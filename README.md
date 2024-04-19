@@ -392,6 +392,7 @@ Supported devices:
 
 - RGB Spot GU10
     _TZ3000_kdpxju99 / TS0505A (LIVARNO LUX / Lidl)
+    _TZ3000_quqaeew6 / TS0505B (LIVARNO LUX / Lidl)
 
 - RGB LED Strip
     _TZ3000_riwp3k79 / TS0505A (LIVARNO LUX / Lidl)
