@@ -13,9 +13,11 @@
   "zigbee": {
     "manufacturerName": [
       "_TZ3000_kdpxju99"
+      "_TZ3000_quqaeew6"
     ],
     "productId": [
-      "TS0505A"
+        "TS0505A"
+        "TS0505B"
     ],
     "endpoints": {
       "1": {
